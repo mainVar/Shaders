@@ -7,4 +7,4 @@ Asset was used as a test model [link](https://assetstore.unity.com/packages/3d/c
 
 Simple cel shader with outline 
 
-![](Img/screen_1920x1080CelShader.png)
+![](Images/screen_1920x1080CelShader.png)
